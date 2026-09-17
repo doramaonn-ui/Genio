@@ -9,7 +9,7 @@ export function Testimonials() {
       rating: 5,
       time: "Comprou há 2 horas",
       comment:
-        "Gente, eu estava louca atrás dessa série dublada! Paguei os R$ 4,99 no Pix e em menos de 1 minuto chegou tudo certinho no meu WhatsApp. A história é simplesmente viciante, chorei e vibrei com o final!",
+        "Gente, eu estava louca atrás dessa série dublada! Paguei os R$ 6,99 no Pix e em menos de 1 minuto chegou tudo certinho no meu WhatsApp. A história é simplesmente viciante, chorei e vibrei com o final!",
     },
     {
       name: "Carlos Eduardo Silva",
@@ -27,7 +27,7 @@ export function Testimonials() {
       rating: 5,
       time: "Comprou há 1 dia",
       comment:
-        "Por R$ 4,99 vale CADA CENTAVO! Não tem pegadinha de assinatura, recebi os episódios completos sem nenhum corte. Já recomendei pra todo meu grupo da família.",
+        "Por R$ 6,99 vale CADA CENTAVO! Não tem pegadinha de assinatura, recebi os episódios completos sem nenhum corte. Já recomendei pra todo meu grupo da família.",
     },
     {
       name: "Rodrigo Almeida",
