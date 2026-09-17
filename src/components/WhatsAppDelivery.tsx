@@ -29,7 +29,7 @@ export function WhatsAppDelivery() {
               </div>
               <div>
                 <h3 className="font-bold text-white text-base mb-1">
-                  Faça seu pedido no Pix por apenas R$ 4,99
+                  Faça seu pedido no Pix por apenas R$ 6,99
                 </h3>
                 <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
                   Clique no botão "Comprar Agora" e gere seu Pix com segurança no checkout da Lowify.
