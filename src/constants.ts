@@ -3,7 +3,7 @@ export const CHECKOUT_URL = "https://pay.lowify.com.br/checkout?product_id=kc2KG
 export const SERIES_INFO = {
   title: "O Grande e Poderoso Gênio",
   badge: "SÉRIE COMPLETA E DUBLADA",
-  price: "R$ 4,99",
+  price: "R$ 6,99",
   originalPrice: "R$ 39,90",
   format: "Todos os Episódios Dublados em Português (Full HD)",
   synopsis:
