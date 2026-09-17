@@ -21,7 +21,7 @@ export function SeriesDetails() {
     {
       icon: Zap,
       title: "Sem Anúncios ou Mensalidades",
-      desc: "Ao contrário dos aplicativos que cobram R$ 30 a R$ 50 todo mês e enchem de propaganda, aqui o pagamento é único de R$ 4,99.",
+      desc: "Ao contrário dos aplicativos que cobram R$ 30 a R$ 50 todo mês e enchem de propaganda, aqui o pagamento é único de R$ 6,99.",
     },
   ];
 
