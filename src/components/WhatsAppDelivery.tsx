@@ -162,7 +162,7 @@ export function WhatsAppDelivery() {
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-emerald-500 to-green-600 hover:from-emerald-400 hover:to-green-500 text-white font-extrabold text-base sm:text-lg py-3.5 px-8 rounded-xl shadow-lg transition duration-200 transform hover:-translate-y-0.5 cursor-pointer"
           >
-            <span>QUERO RECEBER NO MEU WHATSAPP POR R$ 4,99</span>
+            <span>QUERO RECEBER NO MEU WHATSAPP POR R$ 6,99</span>
           </a>
         </div>
       </div>
