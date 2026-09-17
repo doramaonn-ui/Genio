@@ -21,7 +21,7 @@ export function AnnouncementBar() {
       <div className="max-w-6xl mx-auto flex flex-wrap items-center justify-between gap-2 text-center sm:text-left">
         <div className="flex items-center justify-center gap-1.5 w-full sm:w-auto text-stone-950 font-bold">
           <Zap className="w-4 h-4 fill-stone-950 text-stone-950 animate-pulse" />
-          <span>OFERTA RELÂMPAGO: SÉRIE COMPLETA E DUBLADA POR APENAS R$ 4,99 NO PIX</span>
+          <span>OFERTA RELÂMPAGO: SÉRIE COMPLETA E DUBLADA POR APENAS R$ 6,99 NO PIX</span>
         </div>
 
         <div className="flex items-center justify-center gap-3 w-full sm:w-auto text-stone-950">
