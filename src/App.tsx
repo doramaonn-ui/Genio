@@ -16,7 +16,7 @@ export default function App() {
 
         {/* Main Content */}
         <main>
-          {/* 1. Hero: Clean Cover Image with Upload Option, Title, Synopsis, Pix Price R$ 4,99, WhatsApp delivery, CTA */}
+          {/* 1. Hero: Clean Cover Image with Upload Option, Title, Synopsis, Pix Price R$ 6,99, WhatsApp delivery, CTA */}
           <HeroSection />
 
           {/* 2. WhatsApp Delivery: 3 Quick Steps on How It Works */}
