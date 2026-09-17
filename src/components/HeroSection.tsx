@@ -95,7 +95,7 @@ export function HeroSection() {
             {/* Price Box & CTA Button */}
             <div className="bg-gradient-to-b from-stone-900 via-stone-900/95 to-black border-2 border-amber-500/50 rounded-2xl p-5 sm:p-6 shadow-2xl relative overflow-hidden">
               <div className="absolute top-0 right-0 bg-gradient-to-l from-amber-500 to-orange-500 text-black font-extrabold text-[11px] uppercase tracking-wider px-3 py-1 rounded-bl-xl shadow-md">
-                OFERTA PIX • R$ 4,99
+                OFERTA PIX • R$ 6,99
               </div>
 
               <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-4">
@@ -144,7 +144,7 @@ export function HeroSection() {
                   Garantia de 7 Dias
                 </span>
                 <span className="text-stone-300 font-medium">
-                  Apenas R$ 4,99 via Pix
+                  Apenas R$ 6,99 via Pix
                 </span>
               </div>
             </div>
