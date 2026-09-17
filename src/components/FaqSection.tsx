@@ -12,15 +12,15 @@ export function FaqSection() {
     },
     {
       q: "Quais são as formas de pagamento aceitas?",
-      a: "O pagamento é realizado exclusivamente via Pix no valor promocional de apenas R$ 4,99, com aprovação instantânea e liberação imediata no seu WhatsApp.",
+      a: "O pagamento é realizado exclusivamente via Pix no valor promocional de apenas R$ 6,99, com aprovação instantânea e liberação imediata no seu WhatsApp.",
     },
     {
       q: "A série está realmente completa e dublada?",
       a: "Sim! Você terá acesso a todos os episódios na íntegra, dublados em português com áudio cristalino e excelente qualidade de imagem.",
     },
     {
-      q: "O valor de R$ 4,99 é mensalidade ou pagamento único?",
-      a: "É pagamento único de apenas R$ 4,99! Você paga uma única vez no Pix e o acesso é seu para sempre, sem mensalidades nem cobranças extras.",
+      q: "O valor de R$ 6,99 é mensalidade ou pagamento único?",
+      a: "É pagamento único de apenas R$ 6,99! Você paga uma única vez no Pix e o acesso é seu para sempre, sem mensalidades nem cobranças extras.",
     },
     {
       q: "Como funciona a Garantia de 7 Dias?",
