@@ -55,7 +55,7 @@ export function GuaranteeSection() {
                 className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-emerald-500 to-green-600 hover:from-emerald-400 hover:to-green-500 text-white font-extrabold text-sm sm:text-base py-3 px-6 rounded-xl shadow-lg transition duration-200 transform hover:scale-[1.02] cursor-pointer"
               >
                 <Zap className="w-4 h-4" />
-                <span>COMPRAR AGORA NO PIX - APENAS R$ 4,99</span>
+                <span>COMPRAR AGORA NO PIX - APENAS R$ 6,99</span>
                 <ArrowRight className="w-4 h-4" />
               </a>
             </div>
