@@ -19,7 +19,7 @@ export function HeroSection() {
             Série Completa e Dublada
           </span>
           <span className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-emerald-500/15 border border-emerald-500/30 text-emerald-300 font-semibold">
-            <Zap className="w-3.5 h-3.5 text-emerald-400" /> Pagamento Único no Pix (R$ 4,99)
+            <Zap className="w-3.5 h-3.5 text-emerald-400" /> Pagamento Único no Pix (R$ 6,99)
           </span>
           <span className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-blue-500/15 border border-blue-500/30 text-blue-300">
             <Smartphone className="w-3.5 h-3.5" /> Entrega Direta no WhatsApp
