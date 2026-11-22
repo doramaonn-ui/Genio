@@ -4,7 +4,7 @@ export const SERIES_INFO = {
   title: "O Grande e Poderoso Gênio",
   badge: "SÉRIE COMPLETA E DUBLADA",
   price: "R$ 6,99",
-  originalPrice: "R$ 39,90",
+  originalPrice: "R$ 9,90",
   format: "Todos os Episódios Dublados em Português (Full HD)",
   synopsis:
     "Um poderoso gênio é obrigado a se casar com uma jovem rica por cinco anos para conquistar sua liberdade. Ignorado e humilhado por ela, ele decide esconder sua verdadeira identidade. Mas quando o prazo chega ao fim, ela descobre tarde demais quem realmente era seu marido.",
